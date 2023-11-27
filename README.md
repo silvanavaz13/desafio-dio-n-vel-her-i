@@ -11,5 +11,5 @@
 
 # Objetivo
 
-O projeto foi desenvolvido para testar conhecimentos básicos em lógiga de programação com JavaScript.
+O projeto foi desenvolvido para testar conhecimentos básicos em lógica de programação com JavaScript.
   
